@@ -1,0 +1,26 @@
+/* CSS Document */
+
+* {
+	padding: 0;
+	border: 0;
+	margin: 0;
+}
+
+.center {
+	text-align: center;
+}
+
+.image {
+	max-width: 50%;
+}
+
+nav ul li {
+	display: inline-block;
+}
+
+nav a {
+	font-family: "Gill Sans";
+	font-weight: bolder;
+	color: #000000;
+	text-decoration: none;
+}
